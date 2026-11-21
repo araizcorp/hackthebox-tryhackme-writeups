@@ -1,5 +1,12 @@
 # 🎯 Hack The Box, TryHackMe & VulnHub Walkthroughs — AraizCorp Academy
 
+
+<!-- araizcorp-resource-banner -->
+> **AraizCorp Academy:** [Browse the complete technical catalog](https://academy.araizcorp.tech/writeups/) · [Protected writeup membership](https://academy.araizcorp.tech/writeups/membership.php?lang=en) · [Español](https://academy.araizcorp.tech/writeups/membership.php?lang=es) · [Deutsch](https://academy.araizcorp.tech/writeups/membership.php?lang=de)
+>
+> Material for authorized security testing and laboratory use. Walkthroughs for active machines stay protected until the platform permits publication.
+
+
 <p align="center">
   <a href="https://academy.araizcorp.tech/writeups/"><img src="https://img.shields.io/badge/Total_Walkthroughs-148+-brightgreen?style=for-the-badge&logo=target" /></a>
   <a href="https://academy.araizcorp.tech"><img src="https://img.shields.io/badge/Academy_Platform-academy.araizcorp.tech-red?style=for-the-badge&logo=firefox" /></a>
